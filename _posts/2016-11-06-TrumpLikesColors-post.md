@@ -2,7 +2,7 @@
 layout: post
 title: "Trump likes Colors Writeup"
 description: "Writeup for HackTheVote 2016, 250 Points"
-date: 2016-05-22
+date: 2016-11-04
 tags: [Forensics, PPP]
 comments: true
 share: true
