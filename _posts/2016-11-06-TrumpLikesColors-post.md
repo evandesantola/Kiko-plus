@@ -16,7 +16,7 @@ In this problem, we are given a large PNG file and the above prompt.
 
 ![alt-text](/images/trump_likes_colors_handout.png)
 
-Opening the image in Preview, and reading the prompt with the uncessearily capitalized A, P, N and G, we discover that we have an APNG file.  Looking through some of the frames, we discover that we have a series of 16384 images with bars of different lengths.  We make the educated guess that the colors in these frames are encoding some sort of information, possibly alongside the time delay between each image.
+Opening the image in Preview, and reading the prompt with the conspicuously capitalized A, P, N and G, we discover that we have an APNG file.  Looking through some of the frames, we discover that we have a series of 16384 images with bars of different lengths.  We make the educated guess that the colors in these frames are encoding some sort of information, possibly alongside the time delay between each image.
 
 After struggling for an embarassingly long hour to find a good way to either split or read in the images individually for use in a script, I finally download and use [APNGb](https://sourceforge.net/projects/apngasm/files/2.7/), a software that splits the images into their constituant frames in addition to creating text files that contain information about the time delay between each image.
 
@@ -35,7 +35,7 @@ As there are 16384 frames (128*128), we hypothesize that the image likely corres
 
 ## Implementation:
 
-We iterate through the pixels of each frame and set a new images pixels to be the relative color frequencies:
+We iterate through the pixels of each frame and set a new image's pixels to be the relative color frequencies:
 
 {% highlight python %}
 if (pix[row,col]==(255,255,255,255)): 
