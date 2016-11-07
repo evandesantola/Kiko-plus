@@ -7,6 +7,8 @@ tags: [Hackathon]
 comments: true
 share: true
 ---
+#The Hackathon:
+BostonHacks was an absolutely amazing/packed event.  The organizers really went all out with the Halloween theme and it was an amazing first hackathon experiance.
 
 #Inspiration
 The primary motivation for development of WhatsUpDoc was the existing problem faced by migrants and refugees who do not have access to smartphones and the internet. The refugees around the world are facing a health crisis which impacts not only them but also their families. We wanted to provide the refugees with a simple solution that would try to ameliorate their present condition. After, several sessions of intensive brainstorming over these problems, we realized the lack of access to heathcare information is the central most issue faced by the people in technologically backward areas. We plan to create a tool that would bring basic medical information to the people in need of immediate attention, who otherwise would not have access to the modern medical information.
@@ -36,3 +38,5 @@ The first insight while developing such an API is the importance of real-time ev
 
 #What's next for WhatsUpDoc
 We would like to extend our application to incorporate more effective user response. We plan to allow user to respond whether he/she is happy with the remedy suggested by us. A feedback approach will help us to provide client satisfaction. We also plan to perform data mining on the user problems. The mined results can provide an insight that shall help us to categorize the users on the basis of country, state and diseases. Another future scope is to email the users with a comprehensive solution to their problem. Such a mail can act as a guide for the user.
+
+[Code for WhatsUpDoc](https://github.com/evandesantola/WhatsUpDocEvangelized)
