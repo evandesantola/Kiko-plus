@@ -18,7 +18,7 @@ Our submission is currently a candidate for semi-finalist for the ACM SRC for Po
 [Extended Abstract](/files/sc16ExtendedAbstract.pdf)
 [Poster](/files/PosterFinalSubmitThis)
 
-###[Check out our results here](http://sc16.supercomputing.org/presentation/?id=spost141&sess=sess318)!
+### [Check out our results here](http://sc16.supercomputing.org/presentation/?id=spost141&sess=sess318)!
 
 
 

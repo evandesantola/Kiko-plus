@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump likes Colors Writeup"
-description: "Writeup for HackTheVote 2016, 250 Points"
+description: "Writeup for HackTheVote 2016, 250 Points scored for Plaid Parliment of Pwning"
 date: 2016-11-04
 tags: [Forensics, PPP]
 comments: true
