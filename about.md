@@ -1,8 +1,1 @@
----
-title: About
-permalink: /about/
----
-
-Evan DeSantola is a student in Carnegie Mellon's School of Computer Science studying computer science and security.
-
-Evan DeSantola is pursuing minors in Mathematics and Business Administration. My academic interests include security, healthcare informatics, HPC, computer vision, machine learning optimization. In his spare time, Evan enjoys participating in CTFs with Carnegie Mellon's Plaid Parliament of Pwning as well as software prototyping both independently and at hackathons.
+---title: Aboutpermalink: /about/---[Resume](/files/Resume)About me:I’m a Junior in Carnegie Mellon's School of Computer Science with an interest in startups, infrastructure, hackathons and machine learning.  I’m pursuing minors in Machine Learning and Business Administration.  My academic and research interests include security, healthcare informatics, HPC, computer vision, machine learning and optimization. In my spare time, I enjoy hackathons, CTFs, hiking and surfing.
